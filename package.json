@@ -1,0 +1,23 @@
+{
+  "name": "google-codein-hw",
+  "version": "0.0.1",
+  "description": "Google CodeIn Task",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phineas/google-codein-hw.git"
+  },
+  "author": "Phineas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phineas/google-codein-hw/issues"
+  },
+  "homepage": "https://github.com/Phineas/google-codein-hw#readme",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
